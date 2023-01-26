@@ -17,4 +17,4 @@ Une fois cloné le repo:
 
 5) nb: le serveur doit tourner sur le port 3000 et MongoDB doit être connecté
 
-6) vous pouvez à présent vous inscrire et ajoutez vos sauces piquantes préférées, liker ou disliker les sauces des autres utilisateurs.
+6) vous pouvez à présent vous inscrire et ajouter vos sauces piquantes préférées, liker ou disliker les sauces des autres utilisateurs.
