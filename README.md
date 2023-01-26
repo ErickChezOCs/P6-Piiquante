@@ -11,4 +11,6 @@ Une fois cloné le repo:
 
 2) ouvrez votre navigateur à l'adresse http://localhost:4200
 
-3) dans une autre console naviguez jusqu'au dossier back_end. Exécutez la commande "npm 
+3) pour fermer le serveur Exécutez la commande "Ctrl+C" 
+
+4) dans une autre console naviguez jusqu'au dossier back_end. Exécutez la commande "npm 
